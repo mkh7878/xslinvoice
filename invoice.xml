@@ -1,0 +1,27 @@
+<invoice>
+    <company>Nova Inc.</company>
+    <date>2024-03-20</date>
+    <invoiceno>12345678</invoiceno>
+    <customer>
+        <name>Nova the Mystery Cat</name>
+        <address>123 Main St, Joshua Tree, CA</address>
+    </customer>
+    <items>
+        <item>
+            <description>Canned Food</description>
+            <quantity>30</quantity>
+            <price>50.00</price>
+        </item>
+        <item>
+            <description>Dry Food</description>
+            <quantity>2</quantity>
+            <price>40.00</price>
+        </item>
+        <item>
+        <description>Cat Toys</description>
+        <quantity>5</quantity>
+        <price>20.00</price>
+        </item>
+    </items>
+    <total>110.00</total>
+</invoice>
